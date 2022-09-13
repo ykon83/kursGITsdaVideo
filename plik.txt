@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Zmiana w pliku
 kolejna zmiana
-dodanie nowej eksperymentalnej funkcjonalności
-=======
->>>>>>> parent of 5004984 (drugi commit - zmiana w pliku)
